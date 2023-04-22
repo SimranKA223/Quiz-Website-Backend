@@ -1,0 +1,10 @@
+**ABOUT PROJECT**
+
+Online Examination System is a web-based multiple choice question website. The website is designed with the purpose of allowing the users to take tests and view their results. It provides a great platform to practice aptitude and programming questions. It aims to remove the existing flaws in the manual system of conducting exams.
+The admin is capable of adding categories, quizzes and questions which will be displayed on user screen. Users are provided with the flexibility to chose among  different types of tests. The user can select any quiz in which they want to participate and a computer generated result will be produced, which can also be viewed later.
+
+**TECHNOLOGY**
+
+Front End –Angular 15.2.2
+Back End – Spring Boot 2.7.9, Java Persistent API, spring starter security
+Database –PostgreSQL 14
